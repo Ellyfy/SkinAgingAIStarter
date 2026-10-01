@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+models/*.pkl
+models/*.pth
+models/*.pt
+models/*.safetensors
+data/reference_features.csv
+.env
